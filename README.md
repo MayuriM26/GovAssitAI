@@ -18,7 +18,7 @@
 * ⚖️ Filters: Age, Income, Gender, Occupation, Region
 * 📝 Form-based data input (HTML + Flask)
 * 📅 Clean CSV-based backend (easily extendable)
-* 🚪 Beginner-friendly code structure
+
 
 ---
 
