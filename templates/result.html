@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Recommended Schemes</title>
+</head>
+<body>
+    <h1>Eligible Government Schemes</h1>
+
+    {% if schemes %}
+        <ul>
+        {% for scheme in schemes %}
+            <li>
+                <strong>{{ scheme['Name'] }}</strong><br>
+                Documents Required: {{ scheme['Documents'] }}<br>
+                <a href="{{ scheme['Apply_Link'] }}" target="_blank">Apply Now</a>
+                <br><br>
+            </li>
+        {% endfor %}
+        </ul>
+    {% else %}
+        <p>No schemes found matching your criteria.</p>
+    {% endif %}
+
+    <br>
+    <a href="/">🔙 Back to Form</a>
+</body>
+</html>

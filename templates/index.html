@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>GovAssist AI - Scheme Recommender</title>
+</head>
+<body>
+    <h1>Find Government Schemes</h1>
+    <form action="/result" method="post">
+        Name: <input type="text" name="name" required><br><br>
+        Age: <input type="number" name="age" required><br><br>
+        Gender:
+        <select name="gender">
+            <option value="Male">Male</option>
+            <option value="Female">Female</option>
+            <option value="Other">Other</option>
+        </select><br><br>
+        Income: <input type="number" name="income" required><br><br>
+        Occupation:
+        <select name="occupation">
+            <option value="Unemployed">Unemployed</option>
+            <option value="Entrepreneur">Entrepreneur</option>
+            <option value="Pregnant">Pregnant</option>
+            <option value="Rural Youth">Rural Youth</option>
+            <option value="Other">Other</option>
+        </select><br><br>
+        Region: <input type="text" name="region" required><br><br>
+        <input type="submit" value="Find Schemes">
+    </form>
+</body>
+</html>
+

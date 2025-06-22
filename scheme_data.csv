@@ -1,0 +1,21 @@
+Name,Min_Age,Max_Age,Gender,Income_Range,Occupation,Documents,Apply_Link
+PMAY,21,60,Any,Low,Any,"Aadhar, Income Certificate",https://pmaymis.gov.in
+PM-KISAN,18,60,Farmer,Low,Any,"Aadhar, Land Ownership",https://pmkisan.gov.in
+Ujjwala Yojana,18,55,Female,Low,Any,"Aadhar, BPL Card",https://pmuy.gov.in
+NSP Scholarship,12,25,Student,Low,Any,"Caste Certificate, Marksheets",https://scholarships.gov.in
+Vayoshree Yojana,60,99,Any,Low,Any,"Aadhar, Age Proof",https://vikaspedia.in/social-welfare
+PMKVY,18,35,Unemployed,Any,Any,"Aadhar, 10th Certificate",https://www.pmkvyofficial.org
+Standup India,21,60,Entrepreneur,Medium,Any,"Aadhar, Business Plan",https://www.standupmitra.in
+Matru Vandana,18,45,Pregnant,Low,Any,"Aadhar, Pregnancy Certificate",https://wcd.nic.in
+MGNREGA,18,60,Rural Youth,Low,Any,"Job Card, Aadhar",https://nrega.nic.in
+Sukanya Samriddhi,0,18,Female,Any,Any,"Aadhar, Birth Certificate",https://www.indiapost.gov.in
+Beti Bachao Beti Padhao,0,18,Female,Any,Any,Birth Certificate,https://wcd.nic.in
+Kisan Credit Card,18,60,Farmer,Any,Any,"Aadhar, Land Docs",https://vikaspedia.in
+Skill India,18,35,Unemployed,Any,Any,Aadhar,https://www.skillindia.gov.in
+Deen Dayal Upadhyaya,18,35,Unemployed,Low,Any,Aadhar,https://www.nabard.org
+Atal Pension Yojana,18,40,Any,Any,Any,"Aadhar, Bank Account",https://npscra.nsdl.co.in
+Ayushman Bharat,0,100,Any,Low,Any,"Aadhar, Ration Card",https://pmjay.gov.in
+Swachh Bharat,0,100,Any,Any,Any,Aadhar,https://swachhbharatmission.gov.in
+Digital India,18,60,Any,Any,Any,Aadhar,https://digitalindia.gov.in
+Jan Dhan Yojana,0,100,Any,Low,Any,"Aadhar, Bank Form",https://pmjdy.gov.in
+UDAN Scheme,18,60,Any,Any,Any,Aadhar,https://www.civilaviation.gov.in
